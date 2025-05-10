@@ -41,5 +41,6 @@ F&&F
 # y=4 (if we create a new variable with same name used previously then R will forget the previous variable and count the new one)
 #to the power is expressed as ^
 #remainder (vagshesh) is expressed as %%
-#to see the result of division without fraction, use % %
-11% %5
+#to see the result of division without fraction, use %/%
+11%/%5
+
