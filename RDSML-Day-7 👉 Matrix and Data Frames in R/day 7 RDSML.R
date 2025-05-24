@@ -55,4 +55,5 @@ mean(stu_dat$marks)
 
 
 
+
 ## data frame is required where numeric and characters (logical data, string etc.) are mixed together. On the other hand, matrix works for numeric dtaa only
