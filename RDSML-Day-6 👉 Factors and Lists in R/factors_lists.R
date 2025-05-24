@@ -32,7 +32,7 @@ my_lists [2]
 my_lists $pieces
 
 # calling specific items from data structre
-my_lists $colors [2]
+my_lists $ colors [2]
 
 
 
